@@ -1,0 +1,12 @@
+1. Understanding the client-server architecture
+2. Understanding the structure of HTTP requests and response
+3. Understandng the structure  of JSON and XML files
+4. Testing API with the POSTMAN
+5. Creation JS autotests
+6. Understanding of the browsers DEV Tools
+7. Understanding what is VPN and how it works
+8. Mobile testing
+9. Basics of Bush scripts
+10.Basics of SQL
+11.Load testing with the Jmeter
+
