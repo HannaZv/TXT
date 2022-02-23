@@ -1,1 +1,11 @@
 
+**Summary:** The user is able to login to the site using the Username only 
+
+**Steps to reproduce:**
+ 1) go to the xxx.com
+ 2) Click on "Sign in" button
+ 3) Enter User name
+ 4) Click on the "Login" button
+ 
+**Expected result:** " "Password" field is required " error message is shown
+**Actual result:** User successfully logged in.
